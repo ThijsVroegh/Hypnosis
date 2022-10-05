@@ -1,3 +1,9 @@
+# R-function adapted from the supplements as part of 
+# the 2016 article "Bayesian Networks in Survey data: Robustness and Sensitivity Issues"
+# by Federica Cugnata,Ron S. Kenett & Silvia Salini
+
+# See: https://doi.org/10.1080/00224065.2016.11918165
+
 plot_s<-function(x,y){
 
 # convert arc to edge 

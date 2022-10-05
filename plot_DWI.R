@@ -1,8 +1,18 @@
+# R-function adapted from the supplements as part of 
+# the 2016 article "Bayesian Networks in Survey data: Robustness and Sensitivity Issues"
+# by Federica Cugnata,Ron S. Kenett & Silvia Salini
+
+# See: https://doi.org/10.1080/00224065.2016.11918165
+
 plot_DWI<-function(x,y,target){
 
 # convert arc to edge 
 mat<-matrix(0,length(nodes(x)),length(nodes(x)))
-rownames(mat) <- nodes(x)
+rownames(mat) <- no# R-function adapted from the supplements as part of 
+# the 2016 article "Bayesian Networks in Survey data: Robustness and Sensitivity Issues"
+# by Federica Cugnata,Ron S. Kenett & Silvia Salini
+
+# See: https://doi.org/10.1080/00224065.2016.11918165des(x)
 colnames(mat) <- nodes(x)
 for (i in 1:dim(arcs(x))[1]){
 mat[nodes(x)==arcs(x)[i,1],nodes(x)==arcs(x)[i,2]]<-1
