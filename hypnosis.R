@@ -21,7 +21,7 @@ set.seed(123)
 ## ---------------------------------------------------------------
 # read 7 correlation matrices from 7 different hypnosis studies
 
-cordat6X6 <- readFullMat(file = "6x6corr_7.txt",skip = 1)
+cordat6X6 <- readFullMat(file = "6x6corr_7.txt")
 
 # Sample sizes of the individual studies on hypnotic experiences
 N <- c(173,246,241,266,565,615,523) # N = 2629

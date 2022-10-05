@@ -1,4 +1,3 @@
-These are seven correlation matrices derived from the PCI, capturing SA, AA, VC, ARO ,AE, AB. These six variables are used to estimate the model for hypnosis by Rainville and Price (2003).
 1.000	-.711	.671	.281	-.611	-.381
 -.711	1.000	-.750	-.290	.700	.470
 .671	-.750	1.000	.340	-.670	-.480
