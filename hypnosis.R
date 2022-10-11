@@ -117,7 +117,7 @@ S
 stage2random_6 <- tssem2(stage1random_6, 
                          Amatrix = A,
                          Smatrix = S,
-                         diag.constraints = TRUE,
+                         diag.constraints = FALSE,
                          intervals="LB",
                          model.name = "TSSEM2 Random Effects Analysis Phenomenology of hypnosis")
 
