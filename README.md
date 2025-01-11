@@ -2,7 +2,7 @@
 The phenomenology of hypnosis: A meta-analytic structural equation modeling approach
 
 # Summary
-In this blog, I test an experiential model of hypnosis using a meta-analytic structural equation modeling approach (MASEM). With Bayesian network structure learning, I use a data-driven technique to examine how the initial model as proposed by Rainville and Price (2003), when slightly restructured, can be further improved.
+In this (blog)[https://tvroegh.netlify.app/post/2020-12-01-r-rmarkdown3/hypnosis/], I test an experiential model of hypnosis using a meta-analytic structural equation modeling approach (MASEM). With Bayesian network structure learning, I use a data-driven technique to examine how the initial model as proposed by Rainville and Price (2003), when slightly restructured, can be further improved.
 
 # Background
 During my PhD and postdoc centered around the theme of music-induced absorption, I regularly came across the related subject of hypnosis. In this blog I want to explore this exciting subject in more detail.
@@ -33,3 +33,5 @@ Except for the authors themselves, and despite the fact that the article is almo
 
 # Question
 Do data on the subjective experience of being hypnotized fit the experiential model of hypnosis as originally formulated by Rainville and Price? How can a data-driven approach help further in identifying and adopting an alternative, better fitting but equally plausible model?
+
+Please go to this (blog post)[https://tvroegh.netlify.app/post/2020-12-01-r-rmarkdown3/hypnosis/] in case you are interested in following along!
